@@ -141,6 +141,10 @@ Expected visual characteristics:
 
 
 
+https://github.com/user-attachments/assets/c0bebe34-e37e-4ee3-bff4-f0eac5866b9c
+
+
+
 
 ---
 
@@ -170,6 +174,10 @@ Expected visual characteristics:
 
 
 
+https://github.com/user-attachments/assets/adb99928-4406-467f-a15a-074a2731b2dc
+
+
+
 
 
 ### 2. Refined Prompt
@@ -190,6 +198,10 @@ Expected visual characteristics:
 - Robotic assembly process
 
 
+
+
+
+https://github.com/user-attachments/assets/995db6a9-bd59-4c4a-a966-2f6944f24153
 
 
 
@@ -224,87 +236,13 @@ Expected visual characteristics:
 
 
 
+https://github.com/user-attachments/assets/80fcbd78-d20b-46ca-831a-1b4ad1acc2e0
+
+
+
 
 
 ---
-
-# VIDEO 3 – Underwater Exploration
-
-## Scene Description
-
-An autonomous underwater vehicle explores a deep-ocean environment containing coral formations, marine life, and an underwater research structure.
-
-### 1. Basic Prompt
-
-> **"An underwater robot exploring the deep ocean."**
-
-Expected Output:
-
-The generated video should show an underwater robotic vehicle travelling through a deep ocean environment. The scene should contain blue water, marine life, underwater plants, and a dark ocean background.
-
-Expected visual characteristics:
-
-- Underwater robot
-- Deep ocean
-- Blue water
-- Marine life
-- Underwater plants
-
-
-
-
-
-
-
-### 2. Refined Prompt
-
-> **"An autonomous underwater robot travelling through a deep blue ocean surrounded by coral reefs, fish, underwater plants, and illuminated research equipment. The scene has cinematic blue lighting and realistic underwater movement."**
-
-Expected Output:
-
-The generated video should show an autonomous underwater vehicle travelling through a deep blue ocean. Coral reefs, fish, underwater plants, and suspended particles should surround the vehicle.
-
-The vehicle should use bright inspection lights to illuminate the underwater environment. Blue and turquoise colors should dominate the scene and create a realistic deep-sea atmosphere.
-
-Expected visual characteristics:
-
-- Autonomous underwater vehicle
-- Deep blue ocean
-- Coral formations
-- Schools of fish
-- Underwater vegetation
-
-
-
-
-
-  
-### 3. Final Advanced Video Prompt
-
-> **"Create a highly realistic cinematic underwater exploration video featuring an autonomous underwater research vehicle travelling through a deep ocean environment. Begin with a wide underwater shot showing a vast blue ocean filled with floating particles, coral formations, sea plants, and schools of small fish moving naturally through the water. Gradually move the camera forward toward the autonomous underwater vehicle as it enters the scene from the distance. Show the vehicle travelling slowly and steadily between coral formations, with its small propulsion units rotating naturally and bright white inspection lights illuminating the surrounding water. Use a smooth follow-camera movement that maintains the vehicle near the center of the frame while gradually revealing a futuristic underwater research station in the background. As the vehicle approaches the station, show its lights sweeping across coral surfaces and metallic structures, producing realistic highlights and shadows. Include subtle underwater currents causing sea plants and suspended particles to move naturally. Use deep blue and turquoise tones with volumetric light rays entering from above, gradually becoming darker toward the distant ocean. Maintain physically realistic underwater motion, consistent vehicle geometry, natural marine-life movement, realistic water distortion, suspended particles, detailed coral textures, metallic reflections, cinematic depth of field, smooth camera motion, atmospheric perspective, and photorealistic visual quality throughout the sequence."**
-
-
-Expected Output:
-
-The final video should begin with a wide underwater view containing coral formations, marine plants, fish, and floating particles. The camera should slowly move toward an autonomous underwater research vehicle approaching from the distance.
-
-The vehicle should travel smoothly between coral formations while its propulsion units operate naturally and its inspection lights illuminate the surrounding environment.
-
-As the vehicle moves forward, a futuristic underwater research station should gradually become visible in the background. The inspection lights should sweep across coral formations and metallic surfaces, creating realistic highlights and shadows.
-
-The water should contain naturally moving particles and vegetation affected by underwater currents. Volumetric light rays should enter from above, while the distant ocean gradually becomes darker.
-
-Expected visual characteristics:
-
-- Wide underwater establishing shot
-- Autonomous underwater research vehicle
-- Smooth forward movement
-- Follow-camera movement
-- Coral formations
-
-
-
-
 
 
 
